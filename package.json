@@ -1,0 +1,23 @@
+{
+  "name": "my-movie-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enzogran01/my-movie-lib.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enzogran01/my-movie-lib/issues"
+  },
+  "homepage": "https://github.com/enzogran01/my-movie-lib#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
